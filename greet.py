@@ -4,5 +4,8 @@ return "hi %s" % name
 def new_feature():
 print "git is great"
 
-def say_mellow(name):
+def wrong_feature(name):
+print "to hell with python"
+
+def say_hello(name):
 print greet(name)
